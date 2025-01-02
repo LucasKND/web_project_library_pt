@@ -83,7 +83,7 @@
 }
 
 .header__link{
-background-color: (0,0,0,0.0);
+  z-index: auto;
 }
 
 .header__image {
