@@ -22,7 +22,7 @@
 .nav {
   margin-bottom: 40px;
   display: flex;
-  justify-content: end;
+  justify-content: space-between;
 }
 
 .navdiv {
@@ -41,7 +41,7 @@
 .nav__links {
   display: flex;
   gap: 25px;
-  list-style: none;
+  list-style-type: none;
   padding: 0;
   margin-right: 75px;
   column-gap: 20px;
@@ -72,6 +72,7 @@
   line-height: 76px;
   max-width: 635px;
   margin: 128px 0 15px 0;
+  font-weight: 500px;
 }
 
 .header__description {
@@ -79,7 +80,6 @@
   line-height: 30px;
   max-width: 515px;
   margin-top: 32px;
-  font-weight: 500;
 }
 
 .header__link{
