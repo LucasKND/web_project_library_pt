@@ -161,6 +161,7 @@ flex-direction: column;
 height: 420px;
 flex-grow: 1;
 max-width: 760px;
+height: 100%;
 }
 .card{
 background-color: white;
