@@ -411,6 +411,10 @@
   margin-right: 80px;
 }
 
+.footer__column_content_social{
+margin: 0;
+}
+
 .footer__logo {
   width: 58px;
   height: 80px;
@@ -455,4 +459,5 @@
 
 .footer__copyright {
   margin-left: 80px;
+  margin-top: 100px;
 }
