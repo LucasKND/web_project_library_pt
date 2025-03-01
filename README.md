@@ -6,3 +6,7 @@ A página da biblioteca Triple Peaks é o segundo projeto no programa de desenvo
 
 - HTML5 semântico
 - Flexbox
+
+## Pagina no Pages
+
+https://lucasknd.github.io/web_project_library_pt/
